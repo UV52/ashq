@@ -1,14 +1,14 @@
 const messages = [
-    "Seguro?",
-    "Muy seguro??",
-    "Estas 100% seguro?",
-    "Andale di que si",
-    "Piensalo otra vez",
-    "Si dices que no me voy a awitar",
-    "Muy muy awitado",
-    "Voy a estar muy muy muy awitado",
-    "Bueno pues",
-    "DI QUE SI YAAAAAAAAA"
+    "Are you sure?",
+    "Very sure??",
+    "Are you 100% sure?",
+    "Come on, say yes",
+    "Think about it again",
+    "If you say no, I'm going to be sad",
+    "Very, very sad",
+    "I'm going to be very, very, very sad",
+    "Well then",
+    "SAY YES NOW"
 ];
 
 let messageIndex = 0;
